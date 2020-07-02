@@ -1,8 +1,12 @@
 ## Welcome to caobin Pages
 
+<<<<<<< HEAD
 你好 [editor on GitHub](https://github.com/bcao19/bcao19.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 [个人](./test.md)
+=======
+你好 use the [editor on GitHub](https://github.com/bcao19/bcao19.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>>>>>>> f980e2611d412326231721a3d4842f3fe84e2f91
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
