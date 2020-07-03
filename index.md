@@ -11,7 +11,6 @@
 [This is my princess](http://www.caozijin.com)
 
 ------
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
