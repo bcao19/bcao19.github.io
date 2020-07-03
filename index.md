@@ -9,25 +9,12 @@
 ### My daught's page
 
 [This is my princess](http://www.caozijin.com)
+
+***
+
 [Video](./test.md)
 
-```
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. [Video](./test.md)
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
+***
 
 
 
