@@ -1,4 +1,4 @@
-## Welcome to caobin Pages
+## Welcome to caobin's Pages
 
 欢迎来到我的个人网页
 
@@ -8,7 +8,7 @@
 
 ### My daught's page
 
-[This is my princess](https://www.caozijin.com)
+[This is my princess](http://www.caozijin.com)
 
 ```markdown
 Syntax highlighted code block
