@@ -4,6 +4,8 @@
 
 ![image](./images/IMG_Kick_scooter_20200703_080156_processed.jpg) 
 
+![image](./images/IMG_Kick_scooter_20200703_220226_processed.jpg)
+
 
 
 ### My daught's page
